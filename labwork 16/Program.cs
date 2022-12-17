@@ -14,7 +14,7 @@ namespace labwork_16
                 int b = Convert.ToInt32(mass[1]);
                 int c = Convert.ToInt32(mass[2]);
 
-                Console.WriteLine($"Квадратное уравнение имеет вид {a}x^2+{b}x+c=0");
+                Console.WriteLine($"Квадратное уравнение имеет вид {a}x^2+{b}x+{c}=0");
 
                 double x1, x2; //ввод данных
                 
